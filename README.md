@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Juan Castillo
-- 👀 I’m interested in ... many things. I am a Combat Sambo student, I love programming... it is like giving me cookies. My experience in wireless telecomunucation networks is wide.
+- 👋 Hi, I’m Juan Castillo and I am an specialist on Wireless Telecomunications on Core and Access. I have develop a number of technical skills during my career. Working is FUN FOR ME not a punishment as I say: Work is life.
+- 👀 I’m interested in ... many things from enginering to sports. I am a Combat Sambo student, I love programming... it is like giving me cookies.
+- As a senior I spend my time studing and developing engineering solutions mostly for Telecommunications problems. Comissioning a new MSS usually requires between 30 K to 60 K command lines and takes minimun 2 weeks of coding but I can create the commands in 5 minutes for later SW loading. I can not understand why spend so much time on something code can solve.  
 - I had work for Nokia, Lucent Technologies, AT&T not only on my home country but on almost all the americas and quite a few countries in Europe.
 - As programming is fun for me I am looking to move on this field... it is just something I love a lot.
 - 🌱 I’m currently learning ...
